@@ -1,0 +1,3 @@
+aa5911eb765e6eeb63631b392bf87dfecae98fcd9a1febe635596fb9b0c76979  traceo_darwin_amd64.tar.gz
+267099fc3a16fe19a199c4b98e2f0cc6c099718124615f5d718d437b5367dc8e  traceo_darwin_arm64.tar.gz
+ee460b399d74f2688d5b6ba8feee4443b5b0e39915029657f5b95905541dbf07  traceo_linux_amd64.tar.gz
